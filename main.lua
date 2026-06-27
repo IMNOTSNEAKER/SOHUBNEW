@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMNOTSNEAKER/SOHUBNEW/refs/heads/main/webhook"))()
+loadstring(game:HttpGet("https://github.com/IMNOTSNEAKER/SOHUBNEW/edit/main/webhook.lua"))()
 
 -- Cache all services at start for better performance
 local Services = setmetatable({}, {
